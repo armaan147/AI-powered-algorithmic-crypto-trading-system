@@ -62,14 +62,6 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-# Data files (optional)
-*.csv
-data/raw/
-
-# Results
-results/*.html
-results/*.json
-
 # Cache
 .cache/
 *.cache
